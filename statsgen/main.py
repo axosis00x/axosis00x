@@ -6,7 +6,7 @@ import concurrent.futures
 from dotenv import load_dotenv
 
 load_dotenv()
-USERNAME = "frgnc-subash"
+USERNAME = "axosis00x"
 TOKEN = os.getenv("GH_TOKEN")
 LANG_COUNT = 8
 
